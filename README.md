@@ -1,4 +1,4 @@
-Hi 👋 My name is Sankara Aluko Ang'iro
+Hi 👋 My name is Sankara Aluko 
 ======================================
 
 I've been learning code for 2 years. Started with learning Javascript on Codeacademy then switched to python from youtube tutorials and Python books but it wasn't until this year(2022) that I found a defined roadmap on what to learn. I am currently learning python and have recently done c from ALX africa and i am on track to learn about fullstack web development.
